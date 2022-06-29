@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="add_task_icon" transform="translate(-364 -854.61)">
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="24" height="24" rx="4" transform="translate(364 854.61)" fill="#707070"/>
+    <path id="Icon_ionic-md-arrow-round-up" data-name="Icon ionic-md-arrow-round-up" d="M19.937,11.83,14.285,6a1.285,1.285,0,0,0-.945-.38h-.017a1.285,1.285,0,0,0-.945.38L6.725,11.83a1.247,1.247,0,0,0,0,1.822,1.4,1.4,0,0,0,1.907,0l3.349-3.5v9.027a1.351,1.351,0,0,0,2.7,0V10.151l3.349,3.5a1.4,1.4,0,0,0,1.907,0A1.247,1.247,0,0,0,19.937,11.83Z" transform="translate(362.368 853.563)" fill="#fff"/>
+  </g>
+</svg>
